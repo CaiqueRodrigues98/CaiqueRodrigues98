@@ -2,7 +2,7 @@
 
 👨🏻‍🎓 - Estudante de Análise e Desenvolvimento de sistema. <br>
 📚 - Estudando Front-end. <br>
-🏠 - São Paulo SP - BR. <br>
+🏠    -     São Paulo, SP <BR>
 
 <div align="center">
   <a href="https://github.com/CaiqueRodrigues98">
