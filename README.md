@@ -1,7 +1,7 @@
 ### Olá!! 👋 
 
 👨🏻‍🎓 - Estudante de Análise e Desenvolvimento de sistema. <br>
-📚 - Estudando Front-end. <br>
+📚 - Dev. Front-end. <br>
 🏠    -     São Paulo, SP <BR>
 
 <div align="center">
@@ -10,6 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- 
-   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/caique-rodrigues-30a0b31a8/) 
- 
+  ##
+  
+  <div> 
+  <a href="https://instagram.com/caique.rodris" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caique-rodrigues-30a0b31a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:caiquerodrigues120@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
