@@ -1,7 +1,7 @@
 ### Olá!! 👋 
 
 👨🏻‍🎓 - Cursando Análise e Desenvolvimento de sistema. <br>
-📚 - Dev. Front-end. <br>
+📚 - Dev. Back-end. <br>
 🏠    -     São Paulo, SP <BR>
 
 <div>
