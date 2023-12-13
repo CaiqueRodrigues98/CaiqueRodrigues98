@@ -1,8 +1,8 @@
-### Olá!! 👋 
+### Hello World! 👋 
 
-👨🏻‍🎓 - Cursando Análise e Desenvolvimento de sistema. <br>
-📚 - Desenvolvedor Back-end <br>
-🏠    -     São Paulo, SP <BR>
+👨🏻‍🎓 - Formado em Análise e Desenvolvimento de sistema. <br>
+📚 - +1 ano Desenvolvendo com as tecnologias JavaScript e Python <br>
+🏠 - São Paulo, SP <BR>
 ##
 <div align="center">
 <div>
