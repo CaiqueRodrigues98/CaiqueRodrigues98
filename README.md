@@ -1,7 +1,7 @@
 ### Hello World! 👋 
 
 👨🏻‍🎓 - Formado em Análise e Desenvolvimento de sistema. <br>
-📚 - +1 ano Desenvolvendo com as tecnologias Python e JavaScript <br>
+📚 - +1 ano Desenvolvendo com as tecnologias JavaScript, HTML, CSS e NodeJS <br>
 🏠 - São Paulo, SP <BR>
 ##
 <div align="center">
