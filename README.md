@@ -1,7 +1,7 @@
 ### Hello World! 👋 
 
 👨🏻‍🎓 - Formado em Análise e Desenvolvimento de sistema. <br>
-📚 - + 2 anos desenvolvendo com automação, IA e machine learning utilizando Python <br>
+📚 - + 2 anos desenvolvendo com automação, IA e machine learning utilizando Python.🐍 <br>
 🏠 - São Paulo, SP <BR>
 ##
 <div align="center">
