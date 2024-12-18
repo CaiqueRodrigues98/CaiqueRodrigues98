@@ -1,7 +1,7 @@
 ### Hello World! 👋 
 
 👨🏻‍🎓 - Formado em Análise e Desenvolvimento de sistema. <br>
-🐍 - Desenvolvendo automação, IA e machine learning utilizando Python. <br>
+🐍 - Desenvolvendo análise de dados, automação e machine learning utilizando Python. <br>
 💻 - Atuando como analista de T.I pleno. <br>
 🏠 - São Paulo, SP. <br>
 ##
