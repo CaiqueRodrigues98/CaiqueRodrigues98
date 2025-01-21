@@ -1,8 +1,7 @@
 ### Hello World! 👋 
 
 👨🏻‍🎓 - Formado em Análise e Desenvolvimento de sistema. <br>
-🐍 - Desenvolvendo análise de dados, automação e machine learning utilizando Python. <br>
-💻 - Atuando como analista de T.I pleno. <br>
+🐍 - Python Backend Developer. <br>
 🏠 - São Paulo, SP. <br>
 ##
 <div align="center">
