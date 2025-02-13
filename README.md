@@ -1,7 +1,7 @@
 ### Hello World! 👋 
 
 👨🏻‍🎓 - Formado em Análise e Desenvolvimento de sistema. <br>
-🐍 - Python Backend Developer. <br>
+🐍 - Python Backend Developer | Automação | Django | FastAPI | MySQL | SQLite. <br>
 🏠 - São Paulo, SP. <br>
 ##
 <div align="center">
