@@ -1,7 +1,7 @@
 ### Hello World! 👋 
 
 👨🏻‍🎓 - Formado em Análise e Desenvolvimento de sistema. <br>
-💻 - Web Developer | Python | Django | FastAPI | Node.js | JavaScript | MySQL | Docker. <br>
+💻 - Web Developer | JavaScript | TypeScript | Node.js | React | MySQL | Docker. <br>
 🏠 - São Paulo, SP. <br>
 ##
 <div align="center">
