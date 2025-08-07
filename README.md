@@ -35,6 +35,7 @@
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/XHAv3GDs4F6PQQ3yZz/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHoyNGdndHY2ZDNnZWUyOGlsanJzdm81M2F4ZWRhOHVqNjZ0emh3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ma8hkpN9y3kyg4iIAK/giphy.gif" width="80" title=".NET" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFibWszajNmMDFmNjZycWluNHB0aTN2Njd4MXcyOXJoaWZwbXdqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fvw0Ha9nPbnMQ3x3QK/giphy.gif" width="80" title="C#" />
+
 </p>
