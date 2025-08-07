@@ -1,6 +1,8 @@
 <h1 align="center">👋 Olá! Eu sou Caique Rocha</h1>
-<p align="center">💻 Sou Desenvolvedor Back-End com mais de 2 anos de experiência em tecnologia, formado em Análise e Desenvolvimento de Sistemas pela UNINOVE.
+<p align="center">💻 Sou Desenvolvedor Back-End com mais de 2 anos de experiência em tecnologia, formado em Análise e Desenvolvimento de Sistemas.
 <br>Atuo no desenvolvimento de sistemas e APIs robustas utilizando .NET, C#, Node.js e JavaScript, com foco em performance, escalabilidade e segurança. Tenho experiência em SQL Server e MySQL, além de conhecimentos em Docker e Azure para implantação em nuvem.</p>
+<p align="center">🔧 Tecnologias principais: 
+.NET | ASP.NET Core | C# | Node.js | Express | NestJS | JavaScript | WebAPI | SQL Server | MongoDB | JWT | Git & GitFlow | Docker | Azure </p>
 
 
 ---
