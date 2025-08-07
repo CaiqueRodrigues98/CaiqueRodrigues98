@@ -21,11 +21,27 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+---
 
+<h2 align="center">🌐 Meu Portfólio</h2>
+
+<!-- Link grande e centralizado -->
+<h3 align="center">
+  🚀 <a href="https://portfolio-caique-psi.vercel.app/" target="_blank">Clique aqui para visitar meu portfólio</a>
+</h3>
+
+<!-- Badge estilo botão -->
 <p align="center">
-  <img src="https://portfolio-caique-psi.vercel.app/" width="47%"/>
-  <img src="https://github.com/CaiqueRodrigues98" width="47%"/>
+  <a href="https://portfolio-caique-psi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Meu Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Link para o portfólio" />
+  </a>
+</p>
+
+<!-- Logo da Vercel como imagem clicável -->
+<p align="center">
+  <a href="https://portfolio-caique-psi.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vercel.svg" width="100" alt="Vercel logo" />
+  </a>
 </p>
 
 ---
