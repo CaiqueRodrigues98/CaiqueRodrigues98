@@ -1,5 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou Caique Rocha</h1>
 <p align="center">💻 Desenvolvedor Back-end focado em .NET, APIs e DevOps</p>
+<p align="center"> Atuo como desenvolvedor back-end, criando soluções robustas, seguras e escaláveis para diferentes tipos de projetos.</p>
 
 ---
 
@@ -23,8 +24,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" width="47%"/>
+  <img src="https://portfolio-caique-psi.vercel.app/" width="47%"/>
+  <img src="https://github.com/CaiqueRodrigues98" width="47%"/>
 </p>
 
 ---
@@ -43,16 +44,8 @@
 
 <h2 align="center">🧩 Projetos em Destaque</h2>
 
-- 🔧 [API Gestão de Tarefas](https://github.com/SEU_USUARIO/api-gestao-tarefas)  
-- 📦 [Sistema de Controle de Estoque](https://github.com/SEU_USUARIO/sistema-estoque)  
-- ☁️ [Deploy .NET com Docker e Azure](https://github.com/SEU_USUARIO/deploy-net-docker-azure)
+- 🔧 [Conexão do back-end com o banco de dados Mongo DB, utilizando NODE.JS](https://github.com/CaiqueRodrigues98/Back-end_connection)  
+- 📦 [Sistema de Controle de Estoque](https://github.com/CaiqueRodrigues98/Sistema-ERP)  
+- ☁️ [Um site de barbearia, desenvolvido em HTML, CSS e JavaScript.](https://github.com/CaiqueRodrigues98/barbershop)
 
 ---
-
-<h2 align="center">📅 Linha do Tempo</h2>
-
-```text
-🎓 2021: Início da faculdade de Sistemas de Informação
-👨‍💻 2022: Primeiro contato com .NET e desenvolvimento de APIs
-🚀 2023: Projetos com Docker, SQL Server e Azure
-🔭 2024: Foco em arquitetura de software e DevOps
