@@ -20,38 +20,39 @@
 
 ---
 
-<h2 align="center">⚙️ Tecnologias que eu uso</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" width="47%"/>
+</p>
 
-<!-- .NET -->
-<img src="https://media.giphy.com/media/Ma8hkpN9y3kyg4iIAK/giphy.gif" width="70" title=".NET" />
-<img src="https://img.shields.io/badge/.NET8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+---
 
-<!-- C# -->
-<br/>
-<img src="https://media.giphy.com/media/Fvw0Ha9nPbnMQ3x3QK/giphy.gif" width="70" title="C#" />
-<img src="https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=csharp&logoColor=white" />
+<h2 align="center">🌐 Ferramentas & Tecnologias Favoritas</h2>
 
-<!-- Node.js -->
-<br/>
-<img src="https://media.giphy.com/media/XHAv3GDs4F6PQQ3yZz/giphy.gif" width="70" title="Node.js" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<p align="center">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/XHAv3GDs4F6PQQ3yZz/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
+</p>
 
-<!-- JavaScript -->
-<br/>
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70" title="JavaScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+---
 
-<!-- Docker -->
-<br/>
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" title="Docker" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<h2 align="center">🧩 Projetos em Destaque</h2>
 
-<!-- Azure -->
-<br/>
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="70" title="Azure" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+- 🔧 [API Gestão de Tarefas](https://github.com/SEU_USUARIO/api-gestao-tarefas)  
+- 📦 [Sistema de Controle de Estoque](https://github.com/SEU_USUARIO/sistema-estoque)  
+- ☁️ [Deploy .NET com Docker e Azure](https://github.com/SEU_USUARIO/deploy-net-docker-azure)
 
-</div>
+---
 
+<h2 align="center">📅 Linha do Tempo</h2>
+
+```text
+🎓 2021: Início da faculdade de Sistemas de Informação
+👨‍💻 2022: Primeiro contato com .NET e desenvolvimento de APIs
+🚀 2023: Projetos com Docker, SQL Server e Azure
+🔭 2024: Foco em arquitetura de software e DevOps
