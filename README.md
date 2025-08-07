@@ -1,6 +1,6 @@
 <!-- HEADER COM NOME E TÍTULO -->
 <h1 align="center">👨‍💻 Caique Rocha</h1>
-<p align="center">🚀 Desenvolvedor Back-End | .NET • Node.js • Docker • Azure</p>
+<p align="center">🚀 Desenvolvedor Back-End | .NET • Node.js • JavaScript • C# </p>
 
 ---
 
