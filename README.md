@@ -2,10 +2,6 @@
 <h1 align="center">👨‍💻 Caique Rocha</h1>
 <p align="center">🚀 Desenvolvedor Back-End | .NET • Node.js • Docker • Azure</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00F7FF&width=435&lines=Desenvolvedor+Back-end+.NET;Node.js+%7C+JavaScript+%7C+Docker+%7C+Azure;APIs+robustas+%7C+Escalabilidade+%7C+Segurança;Sempre+aprendendo+e+evoluindo!+💡" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧾 Sobre Mim
@@ -22,46 +18,24 @@
 <div align="center">
 
 <!-- Skills em cards com badge -->
-<img src="https://skillicons.dev/icons?i=dotnet,csharp,nodejs,javascript,sql,docker,azure,git,github,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,javascript,sql,docker,azure,git,github,visualstudio,vscode" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">🌐 Meu Portfólio</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=react" />
-</div>
+<!-- Link grande e centralizado -->
+<h3 align="center">
+  🚀 <a href="https://portfolio-caique-psi.vercel.app/" target="_blank">Clique aqui para visitar meu portfólio</a>
+</h3>
 
----
-
-## 🌐 Meu Portfólio
-
-<p align="center">
-  <a href="https://portfolio-caique-psi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌎 Ver Meu Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
 
 ---
 
-## 🚧 Projetos em Destaque
+<h2 align="center">🧩 Projetos em Destaque</h2>
 
-🧩 [**Conexão MongoDB com Node.js**](https://github.com/SEU_USUARIO/seu-projeto-mongo)  
-📦 [**Sistema de Controle de Estoque**](https://github.com/SEU_USUARIO/seu-projeto-estoque)  
-💈 [**Site para Barbearia** (HTML + CSS + JS)](https://github.com/SEU_USUARIO/site-barbearia)
-
----
-
-## 🎯 Contato
-
-<p align="center">
-  <a href="https://github.com/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- 🔧 [Conexão do back-end com o banco de dados Mongo DB, utilizando NODE.JS](https://github.com/CaiqueRodrigues98/Back-end_connection)  
+- 📦 [Sistema de Controle de Estoque](https://github.com/CaiqueRodrigues98/Sistema-ERP)  
+- ☁️ [Um site de barbearia, desenvolvido em HTML, CSS e JavaScript.](https://github.com/CaiqueRodrigues98/barbershop)
