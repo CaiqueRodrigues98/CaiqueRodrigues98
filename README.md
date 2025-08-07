@@ -18,7 +18,7 @@
 <div align="center">
 
 <!-- Skills em cards com badge -->
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,javascript,sql,docker,azure,git,github,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,javascript,docker,azure,git,github,visualstudio,vscode" />
 
 </div>
 
