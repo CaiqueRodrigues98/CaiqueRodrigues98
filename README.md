@@ -1,45 +1,67 @@
-<h1 align="center">👋 Olá! Eu sou Caique Rocha</h1>
-<p align="center">💻 Sou Desenvolvedor Back-End com mais de 2 anos de experiência em tecnologia, formado em Análise e Desenvolvimento de Sistemas.
-<br>Atuo no desenvolvimento de sistemas e APIs robustas utilizando .NET, C#, Node.js e JavaScript, com foco em performance, escalabilidade e segurança. Tenho experiência em SQL Server e MySQL, além de conhecimentos em Docker e Azure para implantação em nuvem.</p>
-<p align="center">🔧 Tecnologias principais: 
-.NET | ASP.NET Core | C# | Node.js | Express | NestJS | JavaScript | WebAPI | SQL Server | MongoDB | JWT | Git & GitFlow | Docker | Azure </p>
+<!-- HEADER COM NOME E TÍTULO -->
+<h1 align="center">👨‍💻 Caique Rocha</h1>
+<p align="center">🚀 Desenvolvedor Back-End | .NET • Node.js • Docker • Azure</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00F7FF&width=435&lines=Desenvolvedor+Back-end+.NET;Node.js+%7C+JavaScript+%7C+Docker+%7C+Azure;APIs+robustas+%7C+Escalabilidade+%7C+Segurança;Sempre+aprendendo+e+evoluindo!+💡" alt="Typing SVG" />
+</p>
 
 ---
 
-<h2 align="center">🚀 Minhas Habilidades</h2>
+## 🧾 Sobre Mim
+
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+💻 Mais de 2 anos de experiência em desenvolvimento de APIs e sistemas back-end  
+🚀 Foco em performance, escalabilidade e segurança  
+🔧 Experiência com: `.NET`, `C#`, `Node.js`, `Docker`, `Azure`, `SQL Server`, `JWT`, `GitFlow`
+
+---
+
+## 🧠 Minhas Skills
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/.NET8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/WebAPI-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<!-- Skills em cards com badge -->
+<img src="https://skillicons.dev/icons?i=dotnet,csharp,nodejs,javascript,sql,docker,azure,git,github,visualstudio,vscode" />
 
 </div>
 
 ---
 
----
+## 📊 GitHub Stats
 
-<h2 align="center">🌐 Meu Portfólio</h2>
-
-<!-- Link grande e centralizado -->
-<h3 align="center">
-  🚀 <a href="https://portfolio-caique-psi.vercel.app/" target="_blank">Clique aqui para visitar meu portfólio</a>
-</h3>
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=react" />
+</div>
 
 ---
 
-<h2 align="center">🧩 Projetos em Destaque</h2>
+## 🌐 Meu Portfólio
 
-- 🔧 [Conexão do back-end com o banco de dados Mongo DB, utilizando NODE.JS](https://github.com/CaiqueRodrigues98/Back-end_connection)  
-- 📦 [Sistema de Controle de Estoque](https://github.com/CaiqueRodrigues98/Sistema-ERP)  
-- ☁️ [Um site de barbearia, desenvolvido em HTML, CSS e JavaScript.](https://github.com/CaiqueRodrigues98/barbershop)
+<p align="center">
+  <a href="https://portfolio-caique-psi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌎 Ver Meu Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+## 🚧 Projetos em Destaque
+
+🧩 [**Conexão MongoDB com Node.js**](https://github.com/SEU_USUARIO/seu-projeto-mongo)  
+📦 [**Sistema de Controle de Estoque**](https://github.com/SEU_USUARIO/seu-projeto-estoque)  
+💈 [**Site para Barbearia** (HTML + CSS + JS)](https://github.com/SEU_USUARIO/site-barbearia)
+
+---
+
+## 🎯 Contato
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
