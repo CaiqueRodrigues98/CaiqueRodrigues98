@@ -30,19 +30,6 @@
   🚀 <a href="https://portfolio-caique-psi.vercel.app/" target="_blank">Clique aqui para visitar meu portfólio</a>
 </h3>
 
-<!-- Badge estilo botão -->
-<p align="center">
-  <a href="https://portfolio-caique-psi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Meu Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Link para o portfólio" />
-  </a>
-</p>
-
-<!-- Logo da Vercel como imagem clicável -->
-<p align="center">
-  <a href="https://portfolio-caique-psi.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vercel.svg" width="100" alt="Vercel logo" />
-  </a>
-</p>
 
 ---
 
