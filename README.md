@@ -36,18 +36,6 @@
 
 ---
 
-<h2 align="center">🌐 Ferramentas & Tecnologias Favoritas</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/XHAv3GDs4F6PQQ3yZz/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
-</p>
-
----
-
 <h2 align="center">🧩 Projetos em Destaque</h2>
 
 - 🔧 [Conexão do back-end com o banco de dados Mongo DB, utilizando NODE.JS](https://github.com/CaiqueRodrigues98/Back-end_connection)  
