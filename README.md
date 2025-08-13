@@ -9,7 +9,7 @@
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 💻 Mais de 2 anos de experiência em desenvolvimento de APIs e sistemas back-end  
 🚀 Foco em performance, escalabilidade e segurança  
-🔧 Experiência com: `.NET` | `ASP.NET Core` | `C#` | `Node.js` | `Express` | `NestJS` | `JavaScript` | `WebAPI` | `SQL Server` | `MongoDB` | `JWT` | `Git & GitFlow` | `Docker` | `Azure` 
+🔧 Experiência com: `.NET` | `ASP.NET Core` | `C#` | `Node.js` | `Express` | `NestJS` | `JavaScript` | `WebAPI` | `SQL Server` | `MongoDB` | `JWT` | `CI/CD` | `Git & GitFlow` | `GCP` | `Docker` | `Azure` 
 
 ---
 
