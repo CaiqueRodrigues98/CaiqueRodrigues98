@@ -1,15 +1,15 @@
 <!-- HEADER COM NOME E TÍTULO -->
 <h1 align="center">👨‍💻 Caique Rocha</h1>
-<p align="center">🚀 Desenvolvedor Back-End | .NET • Node.js • JavaScript • C# </p>
+<p align="center">🚀 Desenvolvedor Full Stack | .NET • C# • Node.js • JavaScript • React </p>
 
 ---
 
 ## 🧾 Sobre Mim
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-💻 Mais de 2 anos de experiência em desenvolvimento de APIs e sistemas back-end  
+💻 Mais de 2 anos de experiência em tecnologia desenvolvendo sites e aplicativos modernos e responsivos e de APIs RESTful.  
 🚀 Foco em performance, escalabilidade e segurança  
-🔧 Experiência com: `.NET` | `ASP.NET Core` | `C#` | `Node.js` | `Express` | `NestJS` | `JavaScript` | `WebAPI` | `SQL Server` | `MongoDB` | `JWT` | `CI/CD` | `Git & GitFlow` | `GCP` | `Docker` | `Azure` 
+🔧 Experiência com: `.NET` | `ASP.NET Core` | `C#` | `Node.js` | `HTML e CSS` | `React` | `TypeScript` | `JavaScript` | `WebAPI` | `SQL Server` | `MongoDB` | `JWT` | `CI/CD` | `Git & GitFlow` | `GCP` | `Docker` | `Azure` 
 
 ---
 
