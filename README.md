@@ -9,7 +9,7 @@
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 💻 Mais de 2 anos de experiência em tecnologia desenvolvendo sites e aplicativos modernos e responsivos e de APIs RESTful.  
 🚀 Foco em performance, escalabilidade e segurança  
-🔧 Experiência com: `.NET` | `ASP.NET Core` | `C#` | `Node.js` | `HTML e CSS` | `React` | `TypeScript` | `JavaScript` | `WebAPI` | `SQL Server` | `MongoDB` | `JWT` | `CI/CD` | `Git & GitFlow` | `GCP` | `Docker` | `Azure` 
+🔧 Experiência com: `.NET` | `ASP.NET Core` | `C#` | `Node.js` | `HTML e CSS` | `React` | `TypeScript` | `JavaScript` | `WebAPI` | `N8N` | `SQL Server` | `MongoDB` | `JWT` | `CI/CD` | `Git & GitFlow` | `GCP` | `Docker` | `Azure` 
 
 ---
 
