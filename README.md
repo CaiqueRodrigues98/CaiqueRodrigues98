@@ -7,7 +7,7 @@
 ## 🧾 Sobre Mim
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-💻 Mais de 2 anos de experiência em tecnologia desenvolvendo sites e aplicativos modernos e responsivos e de APIs RESTful.  
+💻 Mais de 2 anos de experiência em tecnologia.  
 🚀 Busco evoluir constantemente aplicando boas práticas, código limpo e soluções eficientes  
 ⚙️ Interesse em automação, cloud computing e entrega contínua de aplicações  
 🔧 Experiência com: `Python` | `SQL Server` | `PostgreSQL` | `CI/CD` | `Git & GitFlow` | `AWS` | `Cloud Computing` | `Docker` | `Azure` 
