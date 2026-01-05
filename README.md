@@ -19,7 +19,7 @@
 <div align="center">
 
 <!-- Skills em cards com badge -->
-<img src="https://skillicons.dev/icons?python,docker,azure,git,github,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=python,docker,azure,git,github,visualstudio,vscode" />
 
 </div>
 
