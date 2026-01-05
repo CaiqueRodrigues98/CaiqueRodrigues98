@@ -1,6 +1,6 @@
 <!-- HEADER COM NOME E TÍTULO -->
 <h1 align="center">👨‍💻 Caique Rocha</h1>
-<p align="center">🚀 Desenvolvedor Full Stack | .NET • C# • Node.js • JavaScript • React </p>
+<p align="center">🚀 Desenvolvedor de Software | Python • SQL • DevOps • Cloud </p>
 
 ---
 
@@ -8,8 +8,9 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 💻 Mais de 2 anos de experiência em tecnologia desenvolvendo sites e aplicativos modernos e responsivos e de APIs RESTful.  
-🚀 Foco em performance, escalabilidade e segurança  
-🔧 Experiência com: `.NET` | `ASP.NET Core` | `C#` | `Node.js` | `HTML e CSS` | `React` | `TypeScript` | `JavaScript` | `WebAPI` | `N8N` | `SQL Server` | `PostgreSQL` |`MongoDB` | `JWT` | `CI/CD` | `Git & GitFlow` | `GCP` | `Docker` | `Azure` 
+🚀 Busco evoluir constantemente aplicando boas práticas, código limpo e soluções eficientes  
+⚙️ Interesse em automação, cloud computing e entrega contínua de aplicações  
+🔧 Experiência com: `Python` | `SQL Server` | `PostgreSQL` | `CI/CD` | `Git & GitFlow` | `AWS` | `Cloud Computing` | `Docker` | `Azure` 
 
 ---
 
@@ -18,7 +19,7 @@
 <div align="center">
 
 <!-- Skills em cards com badge -->
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,javascript,docker,azure,git,github,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?python,docker,azure,git,github,visualstudio,vscode" />
 
 </div>
 
@@ -38,4 +39,3 @@
 
 - 🔧 [Conexão do back-end com o banco de dados Mongo DB, utilizando NODE.JS](https://github.com/CaiqueRodrigues98/Back-end_connection)  
 - 📦 [Sistema de Controle de Estoque](https://github.com/CaiqueRodrigues98/Sistema-ERP)  
-- ☁️ [Um site de barbearia, desenvolvido em HTML, CSS e JavaScript.](https://github.com/CaiqueRodrigues98/barbershop)
