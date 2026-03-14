@@ -1,6 +1,6 @@
 <!-- HEADER COM NOME E TÍTULO -->
 <h1 align="center">Caique Rocha</h1>
-<p align="center">🚀 Desenvolvedor FullStack | JavaScript • Python • WordPress </p>
+<p align="center">Desenvolvedor FullStack | JavaScript • Python • WordPress </p>
 
 ---
 <h1 align="center">👨‍💻 Sobre Mim</h1>
