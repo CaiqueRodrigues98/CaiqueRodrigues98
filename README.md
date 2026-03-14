@@ -1,16 +1,19 @@
 <!-- HEADER COM NOME E TÍTULO -->
 <h1 align="center">👨‍💻 Caique Rocha</h1>
-<p align="center">🚀 Desenvolvedor de Software | Python • SQL • DevOps • Cloud </p>
+<p align="center">🚀 Desenvolvedor FullStack | JavaScript • Python • WordPress </p>
 
 ---
+👨‍💻 Sobre Mim
+Sou um Desenvolvedor Fullstack com mais de 3 anos de experiência no ecossistema tech, focado em construir soluções robustas, escaláveis e de alta performance. Atualmente, dedico minha expertise à criação de sistemas web e e-commerces modernos, unindo design funcional com arquiteturas de backend eficientes.Minha abordagem combina a agilidade do Next.js e React com o poder de processamento do Node.js e Python, sempre garantindo segurança através de implementações como JWT.
 
-## 🧾 Sobre Mim
+🛠️ No que venho trabalhando:
+Frontend: Desenvolvimento de interfaces modernas e SEO-friendly com Next.js, React e Tailwind.Backend: Construção de APIs seguras e escaláveis utilizando Node.js, Python e autenticação JWT.E-commerce & CMS: Criação de lojas virtuais e sites dinâmicos utilizando WordPress.Infra & DevOps: Automação de processos e deploy contínuo (CI/CD) em ambientes AWS e Azure.
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
-💻 Mais de 2 anos de experiência em tecnologia.  
-🚀 Busco evoluir constantemente aplicando boas práticas, código limpo e soluções eficientes  
-⚙️ Interesse em automação, cloud computing e entrega contínua de aplicações  
-🔧 Experiência com: `Python` | `SQL Server` | `PostgreSQL` | `CI/CD` | `Git & GitFlow` | `AWS` | `Cloud Computing` | `Docker` | `Azure` 
+🚀 Stack
+JavaScript (ES6+), TypeScript, Python, SQL, React, Next.js, HTML5, CSS3, Node.js, Fast API, JWT (Auth), Banco de Dados PostgreSQL, CI/CD, Git & GitFlow, CMS WordPress.
+
+🎓 Formação & Foco
+Formado em Análise e Desenvolvimento de Sistemas.
 
 ---
 
