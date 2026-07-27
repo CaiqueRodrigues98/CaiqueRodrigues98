@@ -36,9 +36,3 @@ Formado em Análise e Desenvolvimento de Sistemas.
 </h3>
 
 
----
-
-<h2 align="center">🧩 Projetos em Destaque</h2>
-
-- 🔧 [Conexão do back-end com o banco de dados Mongo DB, utilizando NODE.JS](https://github.com/CaiqueRodrigues98/Back-end_connection)  
-- 📦 [Sistema de Controle de Estoque](https://github.com/CaiqueRodrigues98/Sistema-ERP)  
