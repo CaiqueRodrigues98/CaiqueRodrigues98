@@ -32,7 +32,7 @@ Formado em Análise e Desenvolvimento de Sistemas.
 
 <!-- Link grande e centralizado -->
 <h3 align="center">
-  🚀 <a href="https://portfolio-caique-psi.vercel.app/" target="_blank">Clique aqui para visitar meu portfólio</a>
+  🚀 <a href="https://portfolio-caique-flame.vercel.app/" target="_blank">Clique aqui para visitar meu portfólio</a>
 </h3>
 
 
