@@ -1,6 +1,6 @@
 <!-- HEADER COM NOME E TÍTULO -->
 <h1 align="center">Caique Rocha</h1>
-<p align="center">Desenvolvedor FullStack <br> JavaScript • Python • </p>
+<p align="center">Desenvolvedor FullStack <br> JavaScript • Python • Java </p>
 
 ---
 <h1 align="center">👨‍💻 Sobre Mim</h1>
@@ -10,7 +10,7 @@ Sou um Desenvolvedor Fullstack com mais de 2 anos de experiência no ecossistema
 Desenvolvimento de interfaces modernas e SEO-friendly com JavaScript, Next.js, React e Tailwind.<br> Construção de APIs seguras e escaláveis utilizando Node.js, Python e autenticação JWT.<br> E-commerce & CMS: Criação de lojas virtuais e sites dinâmicos.
 
 <h1 align="center">🚀 Stack</h1>
-JavaScript (ES6+), TypeScript, Python, SQL, React, Next.js, HTML5, CSS3, Node.js, Fast API, JWT (Auth), Banco de Dados PostgreSQL, CI/CD, Git & GitFlow, CMS WordPress.
+JavaScript (ES6+), TypeScript, Python, SQL, React, Next.js, Java, Spring e IA, Node.js, Fast API, JWT (Auth), Banco de Dados PostgreSQL, Github. 
 
 <h1 align="center">🎓 Formação & Foco</h1>
 Formado em Análise e Desenvolvimento de Sistemas.
