@@ -4,7 +4,7 @@
 
 ---
 <h1 align="center">👨‍💻 Sobre Mim</h1>
-Sou um Desenvolvedor Fullstack com mais de 3 anos de experiência no ecossistema tech, focado em construir soluções robustas, escaláveis e de alta performance. Atualmente, dedico minha expertise à criação de sistemas web e e-commerces modernos, unindo design funcional com arquiteturas de backend eficientes. Minha abordagem combina a agilidade do Next.js e React com o poder de processamento do Node.js e Python, sempre garantindo segurança através de implementações como JWT.
+Sou um Desenvolvedor Fullstack com mais de 2 anos de experiência no ecossistema tech, focado em construir soluções robustas, escaláveis e de alta performance. Atualmente, dedico minha expertise à criação de sistemas web e e-commerces modernos, unindo design funcional com arquiteturas de backend eficientes. Minha abordagem combina a agilidade do Next.js e React com o poder de processamento do Node.js e Python, sempre garantindo segurança através de implementações como JWT.
 
 <h1 align="center">🛠️ No que venho trabalhando</h1>
 Desenvolvimento de interfaces modernas e SEO-friendly com JavaScript, Next.js, React e Tailwind.<br> Construção de APIs seguras e escaláveis utilizando Node.js, Python e autenticação JWT.<br> E-commerce & CMS: Criação de lojas virtuais e sites dinâmicos.
