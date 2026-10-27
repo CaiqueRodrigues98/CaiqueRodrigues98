@@ -10,7 +10,7 @@ Sou um Desenvolvedor Fullstack com mais de 2 anos de experiência no ecossistema
 Desenvolvimento de interfaces modernas e SEO-friendly com JavaScript, Next.js, React e Tailwind.<br> Construção de APIs seguras e escaláveis utilizando Node.js, Python e Spring Boot<br> E-commerce & CMS: Criação de lojas virtuais e sites dinâmicos.
 
 <h1 align="center">🚀 Stack</h1>
-JavaScript (ES6+), TypeScript, Python, SQL, React, Java, Spring Boot e IA, Node.js, Fast API, Docker, Banco de Dados PostgreSQL, Github. 
+JavaScript, TypeScript, Python, SQL, React, Java, Spring Boot e IA, Node.js, Fast API, Docker, Banco de Dados PostgreSQL, Github. 
 
 <h1 align="center">🎓 Formação & Foco</h1>
 Formado em Análise e Desenvolvimento de Sistemas.
