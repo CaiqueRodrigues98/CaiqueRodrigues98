@@ -22,7 +22,7 @@ Formado em Análise e Desenvolvimento de Sistemas.
 <div align="center">
 
 <!-- Skills em cards com badge -->
-<img src="https://skillicons.dev/icons?i=javascript,python,java,git,github,dock" />
+<img src="https://skillicons.dev/icons?i=javascript,python,java,git,github,docker" />
 
 </div>
 
