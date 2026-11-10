@@ -12,7 +12,7 @@ Atualmente direciono minha carreira para Inteligência Artificial, Machine Learn
 <h1 align="center">🚀 Projeto Destaque</h1>
 Empório dos Controles: Plataforma de e-commerce desenvolvida para automatizar operações comerciais através da integração com ERP Bling.
 
-<h1 align="center">🛠️ Tecnologias Backend: Python • Node.js • FastAPI • REST APIs | Frontend: React • Next.js • TypeScript | Banco de Dados: PostgreSQL • MongoDB | DevOps: Docker • Git • Linux | IA: Claude Code • Github copilot • Machine Learning • APIs de IA</h1>
+<h1 align="center">🛠️ Tecnologias</h1> Backend: Python • Node.js • FastAPI • REST APIs | Frontend: React • Next.js • TypeScript | Banco de Dados: PostgreSQL • MongoDB | DevOps: Docker • Git • Linux | IA: Claude Code • Github copilot • Machine Learning • APIs de IA.
 
 <h1 align="center">🎓 Formação & Foco</h1>
 Formado em Análise e Desenvolvimento de Sistemas.
@@ -24,7 +24,7 @@ Formado em Análise e Desenvolvimento de Sistemas.
 <div align="center">
 
 <!-- Skills em cards com badge -->
-<img src="https://skillicons.dev/icons?i=javascript,python,node.js,git,docker" />
+<img src="https://skillicons.dev/icons?i=javascript,python,git,docker" />
 
 </div>
 
